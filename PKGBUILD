@@ -1,6 +1,6 @@
-# Maintainer: Rain Xelelo <rxelelo@outlook.com>
+# Maintainer: noxygalaxy <nooxxyyywork@gmail.com\>
 
-pkgname=twlauncher
+pkgname=twlauncher-bin
 pkgver=1.2.1
 pkgrel=1
 _version=${pkgver/rc/-rc}
