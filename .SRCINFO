@@ -1,7 +1,7 @@
 pkgbase = twlauncher-bin
 	pkgdesc = Launcher for most popular Teeworlds clients.
 	pkgver = 1.2.1
-	pkgrel = 1
+	pkgrel = 2
 	url = https://twlauncher.netlify.app/
 	arch = x86_64
 	license = MIT
